@@ -1,0 +1,25 @@
+Genre,AvgUnitPrice,Price Category
+Drama,1.99,> AVG
+Science Fiction,1.99,> AVG
+Comedy,1.99,> AVG
+Sci Fi & Fantasy,1.99,> AVG
+TV Shows,1.99,> AVG
+Rock,0.990000000000007,<= AVG
+Latin,0.990000000000005,<= AVG
+Metal,0.990000000000004,<= AVG
+Alternative & Punk,0.990000000000003,<= AVG
+Blues,0.990000000000001,<= AVG
+World,0.99,<= AVG
+Rock And Roll,0.99,<= AVG
+Hip Hop/Rap,0.99,<= AVG
+Heavy Metal,0.99,<= AVG
+Electronica/Dance,0.99,<= AVG
+Bossa Nova,0.99,<= AVG
+Alternative,0.99,<= AVG
+Easy Listening,0.99,<= AVG
+Soundtrack,0.99,<= AVG
+R&B/Soul,0.99,<= AVG
+Classical,0.99,<= AVG
+Jazz,0.99,<= AVG
+Reggae,0.99,<= AVG
+Pop,0.99,<= AVG
